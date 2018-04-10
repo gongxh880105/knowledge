@@ -2,3 +2,4 @@
 学习知识专用
 我是new-master上的内容！
 冲突：master
+冲突：new-master
